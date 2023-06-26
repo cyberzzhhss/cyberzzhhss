@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🌱 &nbsp; Exploring new technologies and developing machine learning applications, quantitative finance and web applications.
-- 🎓 &nbsp; Graduated from Center for Data Science, New York University with Master of Science in Data Science. 
-- 🎓 &nbsp; Graduated with BA in Math, BA in Computer Science and Minor in Business Studies.
+- 🎓 &nbsp; Graduated with MS in Data Science from New York University, Center for Data Science.
+- 🎓 &nbsp; Graduated with BA in Computer Science, BA in Mathematics, Minor in Business Studies from New York University, Courant Institute of Mathematical Sciences.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
